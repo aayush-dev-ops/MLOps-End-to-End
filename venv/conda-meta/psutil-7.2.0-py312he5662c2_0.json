@@ -1,0 +1,269 @@
+{
+  "name": "psutil",
+  "version": "7.2.0",
+  "build": "py312he5662c2_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "psutil-7.2.0-py312he5662c2_0.conda",
+  "md5": "bd42eaa82876ff73c7afbaf42f3f68d4",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/psutil-7.2.0-py312he5662c2_0.conda",
+  "sha256": "a7a2b9f2afbc3bdb50f8c7162bf861d1de34155c5516c144c7f931b0f0b8c53e",
+  "depends": [
+    "python",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208",
+    "ucrt >=10.0.20348.0",
+    "python_abi 3.12.* *_cp312"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "timestamp": 1766552071000,
+  "size": 239355,
+  "requested_spec": "None",
+  "package_tarball_full_path": "c:\\Users\\KIIT\\anaconda3\\pkgs\\psutil-7.2.0-py312he5662c2_0.conda",
+  "extracted_package_dir": "c:\\Users\\KIIT\\anaconda3\\pkgs\\psutil-7.2.0-py312he5662c2_0",
+  "files": [
+    "Lib/site-packages/psutil/__init__.py",
+    "Lib/site-packages/psutil/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/psutil/__pycache__/_common.cpython-312.pyc",
+    "Lib/site-packages/psutil/__pycache__/_ntuples.cpython-312.pyc",
+    "Lib/site-packages/psutil/__pycache__/_psaix.cpython-312.pyc",
+    "Lib/site-packages/psutil/__pycache__/_psbsd.cpython-312.pyc",
+    "Lib/site-packages/psutil/__pycache__/_pslinux.cpython-312.pyc",
+    "Lib/site-packages/psutil/__pycache__/_psosx.cpython-312.pyc",
+    "Lib/site-packages/psutil/__pycache__/_psposix.cpython-312.pyc",
+    "Lib/site-packages/psutil/__pycache__/_pssunos.cpython-312.pyc",
+    "Lib/site-packages/psutil/__pycache__/_pswindows.cpython-312.pyc",
+    "Lib/site-packages/psutil/_common.py",
+    "Lib/site-packages/psutil/_ntuples.py",
+    "Lib/site-packages/psutil/_psaix.py",
+    "Lib/site-packages/psutil/_psbsd.py",
+    "Lib/site-packages/psutil/_pslinux.py",
+    "Lib/site-packages/psutil/_psosx.py",
+    "Lib/site-packages/psutil/_psposix.py",
+    "Lib/site-packages/psutil/_pssunos.py",
+    "Lib/site-packages/psutil/_psutil_windows.pyd",
+    "Lib/site-packages/psutil/_pswindows.py",
+    "Lib/site-packages/psutil-7.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/psutil-7.2.0.dist-info/METADATA",
+    "Lib/site-packages/psutil-7.2.0.dist-info/RECORD",
+    "Lib/site-packages/psutil-7.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/psutil-7.2.0.dist-info/WHEEL",
+    "Lib/site-packages/psutil-7.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/psutil-7.2.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/psutil-7.2.0.dist-info/top_level.txt"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/psutil/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "28e3e04511f5151a343ac2f55575f1e847521f6577af270cfcdb12f9c98597fc",
+        "size_in_bytes": 89310,
+        "sha256_in_prefix": "28e3e04511f5151a343ac2f55575f1e847521f6577af270cfcdb12f9c98597fc"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "9043927bcf72344323b4f74b57268bf775c96f0e340ad71b78a704ea6041df65",
+        "size_in_bytes": 90606,
+        "sha256_in_prefix": "9043927bcf72344323b4f74b57268bf775c96f0e340ad71b78a704ea6041df65"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/__pycache__/_common.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "cf02d956a399011154882d7a2f1a69ac3e50b4c47a44658be63aac3c6dc21bab",
+        "size_in_bytes": 31303,
+        "sha256_in_prefix": "cf02d956a399011154882d7a2f1a69ac3e50b4c47a44658be63aac3c6dc21bab"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/__pycache__/_ntuples.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "2941754d085af986df94540ac1da1dfcb21fdf8ea1c66f406fbd3aa781fd1a6b",
+        "size_in_bytes": 5567,
+        "sha256_in_prefix": "2941754d085af986df94540ac1da1dfcb21fdf8ea1c66f406fbd3aa781fd1a6b"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/__pycache__/_psaix.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "6b0d042331c919eeb788c38c93e62637e495252df7ad68dc9663abd1ba637e86",
+        "size_in_bytes": 24491,
+        "sha256_in_prefix": "6b0d042331c919eeb788c38c93e62637e495252df7ad68dc9663abd1ba637e86"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/__pycache__/_psbsd.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "6c5be749d1439951095c3907b000a6678db7b978b5f3f1c6bfea7ee78d2087cf",
+        "size_in_bytes": 33700,
+        "sha256_in_prefix": "6c5be749d1439951095c3907b000a6678db7b978b5f3f1c6bfea7ee78d2087cf"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/__pycache__/_pslinux.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "bc9056788f3581281daf78280166c7be6805e35755947fd861faba8d9e20e29e",
+        "size_in_bytes": 89261,
+        "sha256_in_prefix": "bc9056788f3581281daf78280166c7be6805e35755947fd861faba8d9e20e29e"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/__pycache__/_psosx.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "3c83adf963de52213341adad413fe41535888528031536c5e51a07594a3c81d1",
+        "size_in_bytes": 22115,
+        "sha256_in_prefix": "3c83adf963de52213341adad413fe41535888528031536c5e51a07594a3c81d1"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/__pycache__/_psposix.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "721a3acdf872084a6c4a8c5d33a7ddfaec25f20445fa516eb2f2f0bf5ebd905f",
+        "size_in_bytes": 5787,
+        "sha256_in_prefix": "721a3acdf872084a6c4a8c5d33a7ddfaec25f20445fa516eb2f2f0bf5ebd905f"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/__pycache__/_pssunos.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "d703b17ef6bc24fcc41331a2e1a2ff80f56f456f6181e3986624332f605c5292",
+        "size_in_bytes": 29859,
+        "sha256_in_prefix": "d703b17ef6bc24fcc41331a2e1a2ff80f56f456f6181e3986624332f605c5292"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/__pycache__/_pswindows.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "a0cca5e2cb25e377f7d8be0178ce6c9cba9e7d98b27bbf5168d6789f38715dd2",
+        "size_in_bytes": 43514,
+        "sha256_in_prefix": "a0cca5e2cb25e377f7d8be0178ce6c9cba9e7d98b27bbf5168d6789f38715dd2"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/_common.py",
+        "path_type": "hardlink",
+        "sha256": "1bbce9fd97e6f5439a0d385f28401f527c5a9d978d9d062593d7ef6fe215fc75",
+        "size_in_bytes": 25254,
+        "sha256_in_prefix": "1bbce9fd97e6f5439a0d385f28401f527c5a9d978d9d062593d7ef6fe215fc75"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/_ntuples.py",
+        "path_type": "hardlink",
+        "sha256": "9b8e8b938abae2786a515f686f4d8132218be897eb6b459b9324ed17d88a31c7",
+        "size_in_bytes": 10970,
+        "sha256_in_prefix": "9b8e8b938abae2786a515f686f4d8132218be897eb6b459b9324ed17d88a31c7"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/_psaix.py",
+        "path_type": "hardlink",
+        "sha256": "d5062f92c923716d237c5ebd712d1399c66fe2226abaee02b3ae323eb39cc25d",
+        "size_in_bytes": 17628,
+        "sha256_in_prefix": "d5062f92c923716d237c5ebd712d1399c66fe2226abaee02b3ae323eb39cc25d"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/_psbsd.py",
+        "path_type": "hardlink",
+        "sha256": "bb9ccecb5cec46a0b70c14530479210e695bcc89dc3065948f619e1833daac50",
+        "size_in_bytes": 29275,
+        "sha256_in_prefix": "bb9ccecb5cec46a0b70c14530479210e695bcc89dc3065948f619e1833daac50"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/_pslinux.py",
+        "path_type": "hardlink",
+        "sha256": "f10bd282bb0b3260a8c476cc5f0aa2338931b4dfe0bb35afb1a0466ef577c97f",
+        "size_in_bytes": 84811,
+        "sha256_in_prefix": "f10bd282bb0b3260a8c476cc5f0aa2338931b4dfe0bb35afb1a0466ef577c97f"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/_psosx.py",
+        "path_type": "hardlink",
+        "sha256": "36777226a75273b379882d9aafe5233fceabc96668b161850b1c8806dc38f5f5",
+        "size_in_bytes": 15925,
+        "sha256_in_prefix": "36777226a75273b379882d9aafe5233fceabc96668b161850b1c8806dc38f5f5"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/_psposix.py",
+        "path_type": "hardlink",
+        "sha256": "942872913982ea6d35dc0c407b1ff6e0403f2a3a2a58ff0a5cf0e05d29d2d720",
+        "size_in_bytes": 7143,
+        "sha256_in_prefix": "942872913982ea6d35dc0c407b1ff6e0403f2a3a2a58ff0a5cf0e05d29d2d720"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/_pssunos.py",
+        "path_type": "hardlink",
+        "sha256": "22f42fc3b2758d7983c9bbbec36f69359a39c7ee2420ded2c8bb6d36d67a4bb6",
+        "size_in_bytes": 23946,
+        "sha256_in_prefix": "22f42fc3b2758d7983c9bbbec36f69359a39c7ee2420ded2c8bb6d36d67a4bb6"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/_psutil_windows.pyd",
+        "path_type": "hardlink",
+        "sha256": "21422fdf25eaabab5e2626c02808be4a88a1b6e3b7f53ab32633c2e2226cb11b",
+        "size_in_bytes": 71168,
+        "sha256_in_prefix": "21422fdf25eaabab5e2626c02808be4a88a1b6e3b7f53ab32633c2e2226cb11b"
+      },
+      {
+        "_path": "Lib/site-packages/psutil/_pswindows.py",
+        "path_type": "hardlink",
+        "sha256": "580ad391de734c113682200ee9f4245e34737f5e26af0a73a4e8c9b4458de220",
+        "size_in_bytes": 35370,
+        "sha256_in_prefix": "580ad391de734c113682200ee9f4245e34737f5e26af0a73a4e8c9b4458de220"
+      },
+      {
+        "_path": "Lib/site-packages/psutil-7.2.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "bc33022edcb7639ff53355b4e91dade50a0bbf0299efeb6171d1ec0ba5029cfc",
+        "size_in_bytes": 6,
+        "sha256_in_prefix": "bc33022edcb7639ff53355b4e91dade50a0bbf0299efeb6171d1ec0ba5029cfc"
+      },
+      {
+        "_path": "Lib/site-packages/psutil-7.2.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "dec7053e834bef52c07615610536154944bcdfba3cbd168b6930d4bf153d721f",
+        "size_in_bytes": 23599,
+        "sha256_in_prefix": "dec7053e834bef52c07615610536154944bcdfba3cbd168b6930d4bf153d721f"
+      },
+      {
+        "_path": "Lib/site-packages/psutil-7.2.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "f21453dff168b4776df9242aca3e722093960064a3355a912ca7ccbd8cebfafe",
+        "size_in_bytes": 1977,
+        "sha256_in_prefix": "f21453dff168b4776df9242aca3e722093960064a3355a912ca7ccbd8cebfafe"
+      },
+      {
+        "_path": "Lib/site-packages/psutil-7.2.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/psutil-7.2.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "7a77096889dddd43a6d1e73e4aeffb86c94522119908efb5aa689f163e96b95f",
+        "size_in_bytes": 99,
+        "sha256_in_prefix": "7a77096889dddd43a6d1e73e4aeffb86c94522119908efb5aa689f163e96b95f"
+      },
+      {
+        "_path": "Lib/site-packages/psutil-7.2.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "31876a684275c5a210e693442c4b5e02d3cd3623ced4d454f113744ae7312745",
+        "size_in_bytes": 82,
+        "sha256_in_prefix": "31876a684275c5a210e693442c4b5e02d3cd3623ced4d454f113744ae7312745"
+      },
+      {
+        "_path": "Lib/site-packages/psutil-7.2.0.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "b89c063b3786e28e0c0a38f1931db61fed35e69dd2a2966fbecffee0f46c8d10",
+        "size_in_bytes": 1548,
+        "sha256_in_prefix": "b89c063b3786e28e0c0a38f1931db61fed35e69dd2a2966fbecffee0f46c8d10"
+      },
+      {
+        "_path": "Lib/site-packages/psutil-7.2.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "8023619f9ef0ce4b038d20084a680c2746a25f342e964d062616f6f81032620c",
+        "size_in_bytes": 7,
+        "sha256_in_prefix": "8023619f9ef0ce4b038d20084a680c2746a25f342e964d062616f6f81032620c"
+      }
+    ]
+  },
+  "link": {
+    "source": "c:\\Users\\KIIT\\anaconda3\\pkgs\\psutil-7.2.0-py312he5662c2_0",
+    "type": 1
+  }
+}
