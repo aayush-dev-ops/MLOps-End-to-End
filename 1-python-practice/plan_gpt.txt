@@ -1,0 +1,64 @@
+=====================================
+      PYTHON & MLOPS TRACKER
+=====================================
+
+STATUS LEGEND:
+[ ] Not Started
+[x] Completed
+
+-------------------------------------
+PYTHON PRACTICE
+-------------------------------------
+
+[x] Day 1
+    - Exception Handling
+    - OOP: Inheritance
+    - OOP: Polymorphism
+
+[x] Day 2 (55 mins)
+    - OOP: Encapsulation (Getter/Setter, Access Modifiers)
+    - OOP: Abstraction
+    - Magic Methods
+        - Custom Exceptions
+        - Operator Overloading
+
+[ ] Day 3 (3 hrs) | Date: 31st
+    - Iterators
+    - Generators
+    - Decorators (38 mins)
+    - NumPy & Pandas (1 hr)  
+    - Data Manipulation
+    - Data Source Reading (40 mins)
+    - Logging (28 mins)
+
+--------------------------------------------------------------------
+Python Practice Completed. Practice questions daily to stay updated
+--------------------------------------------------------------------
+--------------
+MLOPS PRACTICE
+--------------
+
+[ ] Day 4 (2 hrs) | Date: 1st
+    - Flask End-to-End (1 hr 46 mins)
+
+[ ] Day 5 (2 hrs) | Date: 2nd
+    - MLflow End-to-End (1 hr 39 mins)
+
+[ ] Day 6 (1.5 hrs) | Date: 3rd
+    - ML Project Integration with MLflow Tracking (35 mins)
+    - Deep Learning (ANN) Model Integration with MLflow (48 mins)
+
+------------------------------------------
+MILESTONE : Section 8 Completed. BRAVO! 🎉
+------------------------------------------
+----------------
+PENDING / REVIEW
+----------------
+[ ] Day 7 (Sunday)
+    - Complete all pending / unfinished topics
+
+-------------------------------------
+NOTES:
+- 
+
+=====================================
