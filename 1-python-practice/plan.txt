@@ -11,7 +11,7 @@ OOP : encapsulation(getter setter access modifiers), abstraction
 Magic Methods : Custom exception, Operator overloading
 
 day 3-> (3hr) 31st
-Iterators, Generators, Decorators (38mins) + Numpy, Pandas (1hr)
+Iterators, Generators, Decorators (38mins)[took me 1hr 30 mins] + Numpy, Pandas (1hr)[most prolly it will take 2 hrs]
 Data Manipulation, Data Source Reading (40 mins) + Logging (28 mins)
 
 //python practice completed. practice some questions daily for staying updated.
