@@ -28,7 +28,7 @@ this is the starting point. neech wala line...
 '''
 @app.route("/") #/ means the home page.whenever i visit my homepage which is "/", it should return welcome.
 def welcome():
-    return "welcome to this flask cou    rse. I am doing good till now. This should be an amazing code/Testing smth,abcd"
+    return "welcome to this flask course. I am doing good till now. This should be an amazing code/Testing smth,abcd"
  
 @app.route("/endure")
 def aayush():
@@ -36,7 +36,7 @@ def aayush():
 
 #3.
 if __name__ == "__main__":
-    app.run(debug = True)
-
-
+    app.run(debug = True) #we should provide the local host here.
+                          #but when we run it in cloud we can give 0.0.0.0, 
+                          #along with port number
 
