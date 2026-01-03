@@ -10,23 +10,23 @@ day 2-> (55 mins)
 OOP : encapsulation(getter setter access modifiers), abstraction
 Magic Methods : Custom exception, Operator overloading
 
-day 3-> (3hr) 31st
+wed - day 3-> (3hr) 31st
 Iterators, Generators, Decorators (38mins)[took me 1hr 30 mins] + Numpy, Pandas (1hr)[most prolly it will take 2 hrs]
 Data Manipulation, Data Source Reading (40 mins) + Logging (28 mins)
 
 //python practice completed. practice some questions daily for staying updated.
 
-day 4-> (2hr) 1st
+1st - thu - day 4-> (2hr) 1st
 Flask end-to-end (1hr 46 mins)
 
-day 5-> (2hr) 2nd
+2nd - fri - day 5-> (2hr) 2nd
 MLFLOW end-to-end (1 hr 39 mins)
 
-day 6-> (1.5hr) 3rd
+3rd - sat - day 6-> (1.5hr) 3rd   ///////////////////////////////[ will complete day 5 today]
 ML project integration with MLFLOW Tracking (35 mins)
 Deep Learning ANN model build integration with MLFLOW (48 mins)
 
 BRAVO! WE HAVE COMPLETED TILL SECTION 8
 
-day 7-> [SUNDAY]
+4th - sun - day 7-> [SUNDAY]     /////////////////////////////////[will complete day 6 today!]
 //complete the uncompleted till now//

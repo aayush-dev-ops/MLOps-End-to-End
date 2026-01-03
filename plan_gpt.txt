@@ -14,15 +14,15 @@ PYTHON PRACTICE
     - Exception Handling
     - OOP: Inheritance
     - OOP: Polymorphism
-
+31st
 [x] Day 2 (55 mins)
     - OOP: Encapsulation (Getter/Setter, Access Modifiers)
     - OOP: Abstraction
     - Magic Methods
         - Custom Exceptions
         - Operator Overloading
-
-[ ] Day 3 (3 hrs) | Date: 31st
+1st
+[x] Day 3 (3 hrs) | Date: 31st
     - Iterators
     - Generators
     - Decorators (38 mins)
@@ -37,13 +37,13 @@ Python Practice Completed. Practice questions daily to stay updated
 --------------
 MLOPS PRACTICE
 --------------
-
-[ ] Day 4 (2 hrs) | Date: 1st
+2nd
+[] Day 4 (2 hrs) | Date: 1st
     - Flask End-to-End (1 hr 46 mins)
-
+3rd
 [ ] Day 5 (2 hrs) | Date: 2nd
     - MLflow End-to-End (1 hr 39 mins)
-
+4th
 [ ] Day 6 (1.5 hrs) | Date: 3rd
     - ML Project Integration with MLflow Tracking (35 mins)
     - Deep Learning (ANN) Model Integration with MLflow (48 mins)
