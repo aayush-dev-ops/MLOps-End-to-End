@@ -1,0 +1,14 @@
+{
+  "argv": [
+    "c:/Users/KIIT/Desktop/MLOps/MLOps-End-to-End/4-MLFlowStarter/venv/python.exe",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "Python 3 (ipykernel)",
+  "language": "python",
+  "metadata": {
+    "debugger": true
+  }
+}

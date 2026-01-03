@@ -1,0 +1,18 @@
+<html>
+    <h1>
+        we now have to read the exp from resultssuccess, which is in key value pair (exp).
+        since it is in dictioary type, to read it... we  must use a for loop.
+        and for that we can use the second way of displaying elements via jinja2 i.e {##%...%##}
+    </h1>
+        <h2> final resuts </h2>
+            <body>
+                <table border =2>
+                    {% for key,value in results.items() %}
+                    <tr>
+                        {## this is the comment section##}
+                        <th> {{ key }} </th>
+                        <tr> {{ value }} </tr>
+                    </tr>
+                    {% endfor %}
+            </body>
+<html>
