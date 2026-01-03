@@ -7,9 +7,8 @@
 
 '''
 
-#BUILDINGS URL DYNAMICALLY
+#BUILDINGS URL DYNAMICALLY -> we can do this by using the "url_for" and "redirect"
 #Variable Rule
-
 
 '''
 till now we have discussed -> 
@@ -93,6 +92,13 @@ def successresults(score):
 def ifsuccess(score):
     return render_template('ifresult.html',results = score) 
 
+#now we have created he page of ifsuccess... here we will deal with the fails only. 
+# here we will learn BUILDING URLS DYNAMICALLY
 
+@app.route('/fail/<int:score>')
+def fail(score):
+    return render_template('ifresult.html',results = score)     
+    
+    
 if __name__=="__main__":
     app.run(debug=True)
